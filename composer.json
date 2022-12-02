@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "php": ">=7.0.0",
+    "php": ">=8.0.0",
     "crazyxman/hessian-parser": ">=1.0.0",
     "doctrine/annotations": "v1.8.0"
   },
